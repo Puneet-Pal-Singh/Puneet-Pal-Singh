@@ -7,7 +7,7 @@
 </a>
 
 <a href="mailto:singh.puneet16112@gmail.com">
-  <img align="center" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img align="center" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <a href="https://www.kaggle.com/puneetpalsingh" >
@@ -28,7 +28,7 @@
 - 📫 How to reach me: **singh.puneet16112@gmail.com**
 <!-- - ⚡ Fun fact: Ryzen chips have better multiCore performance -->
 
-![Puneet's github stats](https://github-readme-stats.vercel.app/api?username=puneet-pal-singh&show_icons=true&hide_border=true)
+![Puneet Pal Singh's github stats](https://github-readme-stats.vercel.app/api?username=puneet-pal-singh&show_icons=true&hide_border=true)
 <br />
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=puneet-pal-singh.puneet-pal-singh)
 
