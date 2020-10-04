@@ -3,25 +3,25 @@
 
 
 <a href="https://www.linkedin.com/in/puneet-pal-singh-09220816a/" >
-    <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Puneet Pal Singh"  />
+    <img class="center" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Puneet Pal Singh"  />
 </a>
 
 <a href="mailto:singh.puneet16112@gmail.com">
-    <img align="center" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <img class="center" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
 <a href="https://www.kaggle.com/puneetpalsingh" >
-    <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="puneetpalsingh"  />
+    <img class="center" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="puneetpalsingh"  />
 </a>
 
 <a href="https://medium.com/@singh.puneet16112">
-    <img align="center" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+    <img class="center" height="30" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 
 ### About Me 🚀
 - 🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Information Technology. </br>
-- 👨‍💻  I am passionate about Full Stack Web Development, Data Science, Machine Learning, & I love to about learn newer technologies. </br>
+- 👨‍💻  I am passionate about Full Stack Web Development, Data Science, Machine Learning, & I love to learn about newer technologies. </br>
 - 🔭 I’m currently working on React.
 - 🌱 I’m currently learning NodeJs.
 - 💬 Ask me about Python, Data Science, Data Structure and Algorithms or any tech related stuff.
