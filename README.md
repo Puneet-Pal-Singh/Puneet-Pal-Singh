@@ -21,10 +21,10 @@
 
 ### About Me 🚀
 - 🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Information Technology. </br>
-- 👨‍💻  I am passionate about Full Stack Web Development, Data Science, Machine Learning, & I love to learn about newer technologies. </br>
-- 🔭 I’m currently working on React.
+- 👨‍💻  I am passionate about Full Stack Web Development, Data Science, Machine Learning, & I love to learn about new technologies. </br>
+- 🔭 I’m currently working on ReactJs and NodeJs.
 - 🌱 I’m currently learning NodeJs.
-- 💬 Ask me about Python, Data Science, Data Structure and Algorithms or any tech related stuff.
+- 💬 Ask me about Java, Data Structure and Algorithms, JavaScript, Python, Data Science, or any tech related stuff.
 - 📫 How to reach me: **singh.puneet16112@gmail.com**
 <!-- - ⚡ Fun fact: Ryzen chips have better multiCore performance -->
 
