@@ -5,6 +5,9 @@ I’m Puneet, a software engineer building systems and products from the ground 
 Backend systems - Infrastructure - Full Stack Development.
 
 Projects:
+
+- **[Shadowbox](https://github.com/Puneet-Pal-Singh/shadowbox)** : A multi-agent coding workspace built from the ground up, combining secure sandboxed execution, Git-aware workflows, and provider-agnostic AI model support.
+
 - **[GoDNS](https://github.com/Puneet-Pal-Singh/go-dns)** : A DNS resolver built from scratch with raw packet parsing and encoding.
 
 - **[GoRedis](https://github.com/Puneet-Pal-Singh/go-redis)** : A Redis-like key-value store implemented from the ground up, including persistence and Pub/Sub.
