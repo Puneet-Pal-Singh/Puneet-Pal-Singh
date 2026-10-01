@@ -6,7 +6,7 @@ Backend systems - Infrastructure - Full Stack Development.
 
 Projects:
 
-- **[LegionCode](https://github.com/Puneet-Pal-Singh/LegionCode)** : A multi-agent coding workspace built from the ground up, combining secure sandboxed execution, Git-aware workflows, and provider-agnostic AI model support.
+- **[LegionCode](https://github.com/Puneet-Pal-Singh/LegionCode)** : An open-source cloud coding-agent platform built around isolated repo sandboxes, durable execution, Git-aware workflows, tool orchestration, and multi-provider model routing.
 
 - **[GoDNS](https://github.com/Puneet-Pal-Singh/go-dns)** : A DNS resolver built from scratch with raw packet parsing and encoding.
 
